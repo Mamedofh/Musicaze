@@ -58,8 +58,8 @@ f"""
 f"""
 **=>> Əlavələr 🧑‍🔧**
 
-- /admincache: Qrupunuzun admin məlumatlarını yeniləyir. Bot admini tanımırsa cəhd edin
-- /userbotjoin: Asistanı @{ASSISTANT_NAME} qrupa dəvət edir
+- /yenile: Qrupunuzun admin məlumatlarını yeniləyir. Bot admini tanımırsa cəhd edin
+- /add: Asistanı @{ASSISTANT_NAME} qrupa dəvət edir
 
 """
       ]
